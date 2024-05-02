@@ -1,3 +1,6 @@
 train/
 *.csv
 sherlock.txt
+*.pdf
+out
+*.pt
